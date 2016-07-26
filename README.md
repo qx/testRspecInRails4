@@ -1,0 +1,1 @@
+# testRspecInRails4
